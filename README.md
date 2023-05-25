@@ -32,7 +32,7 @@
 
   <tr>
     <td>3.</td>
-    <td>🛫🔑😄⭐</td>
+    <td><img src="https://st.ai55.cc/favicon/github.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://github.com/features/copilot"> GitHub Copilot </a> </td>
     <td></td>
     <td><a href="https://github.com/features/copilot">🔗 </a> </td> 
@@ -133,6 +133,14 @@
     <td><a href="https://bito.ai/"> Bito.ai </a> </td>
     <td>AI编程辅助工具</td> 
     <td><a href="https://bito.ai/">🔗 </a> </td> 
+  </tr>
+  
+  <tr>
+    <td>16.</td>
+    <td><img src="https://st.ai55.cc/favicon/regex.ai.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RnlpbjlHMmU4ZlpWNWxzaUZmVTIxZDcxYTI3ZnIxdUkxTWc4c3oxcmtoQT0=" target="_blank"> Regex.ai </a> </td>
+    <td>AI正则表达式</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RnlpbjlHMmU4ZlpWNWxzaUZmVTIxZDcxYTI3ZnIxdUkxTWc4c3oxcmtoQT0=" target="_blank">🔗 </a> </td> 
   </tr>
   
   <tr>
