@@ -1,9 +1,9 @@
 # Programming AI Tools
 
 
-**为你总结基于ChatGPT的AI程序员辅助工具**
+**为你总结基于ChatGPT的程序员AI辅助工具**
 
-> 敬请收藏和分享😃
+> 提高代码生产力，敬请收藏和分享😃
 
 
 
