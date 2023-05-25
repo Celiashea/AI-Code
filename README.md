@@ -23,15 +23,10 @@
 
 
   <tr>
-
     <td>3.</td>
-
     <td><a href="https://github.com/features/copilot"> GitHub Copilot </a> </td>
-
     <td>🛫🔑😄⭐</td>
-
     <td><a href="https://github.com/features/copilot">🔗 </a> </td> 
-
   </tr>
  
 
