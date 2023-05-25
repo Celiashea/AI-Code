@@ -144,6 +144,30 @@
   </tr>
   
   <tr>
+    <td>17.</td>
+    <td><img src="https://st.ai55.cc/favicon/arc53.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=OEFqU3ZhcEhkTXQ4QXMvM0V2SUM2WHpiRjl3cnhsWXV0aktDb2V5VFNvZz0=" target="_blank"> Arc53.com </a> </td>
+    <td>技术文档助手</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=OEFqU3ZhcEhkTXQ4QXMvM0V2SUM2WHpiRjl3cnhsWXV0aktDb2V5VFNvZz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>18.</td>
+    <td><img src="https://st.ai55.cc/favicon/sqlkiller.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=QURsUTkyMjhVbHJYaGJIK0dISWlTck83WmJrRE5LN3VVQlFKQmdGMGNqWT0=" target="_blank"> Sqlkiller.com </a> </td>
+    <td>AI快速生成SQL</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=QURsUTkyMjhVbHJYaGJIK0dISWlTck83WmJrRE5LN3VVQlFKQmdGMGNqWT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>19.</td>
+    <td><img src="https://st.ai55.cc/favicon/cursor.so.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=aFE2YWpkTTg2ZkNGSHlYYXo0d2xnbVYrRVhtK0xycDVLcDRWRVIyQTBHST0=" target="_blank"> Cursor.so </a> </td>
+    <td>AI代码生成</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=aFE2YWpkTTg2ZkNGSHlYYXo0d2xnbVYrRVhtK0xycDVLcDRWRVIyQTBHST0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
     <td>19.</td>
     <td><img src="https://wangwl.net/favicon.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://day0424.ai55.cc/url/?id=c1NoUnh3UjJBVUdNVGVyS0c1K0pKNHk3OWN5ZGx5WXRRNlVWek91Sy85d3FocWlkQWg5YUtTR0t6VWRUL0UwWA==" target="_blank"> Wangwl.net </a> </td>
