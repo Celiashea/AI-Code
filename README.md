@@ -66,7 +66,7 @@
     <td>7.</td>
     <td>🛫🔑😄⭐</td>
     <td><a href="https://replit.com/site/ghostwriter"> Replit </a> </td>
-    <td></td>
+    <td>Build software collaboratively with the power of AI</td>
     <td><a href="https://replit.com/site/ghostwriter">🔗 </a> </td> 
   </tr>
 
@@ -181,6 +181,14 @@
     <td><a href="https://promptperfect.jinaai.cn/"> Jinaai.cn </a> </td>
     <td>提示词优化</td> 
     <td><a href="https://promptperfect.jinaai.cn/">🔗 </a> </td> 
+  </tr>
+  
+  <tr>
+    <td>19.</td>
+    <td><img src=" " style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://www.autoregex.xyz/?ref=futurepedia"> AutoRegex </a> </td>
+    <td>Effortless conversions from English to RegEx</td> 
+    <td><a href="https://www.autoregex.xyz/?ref=futurepedia">🔗 </a> </td> 
   </tr>
   
   <tr>
