@@ -114,9 +114,9 @@
   <tr>
     <td>13.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=kodezi.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=WEpOenpOUmhlRjlnd3Y5OVcxbFN4N1Zia1E5YWEyeXorb085S3R3cm1PST0=" target="_blank"> Kodezi.com </a> </td>
-    <td>AI编程助手</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=WEpOenpOUmhlRjlnd3Y5OVcxbFN4N1Zia1E5YWEyeXorb085S3R3cm1PST0=" target="_blank">🔗 </a> </td> 
+    <td><a href="https://kodezi.com/"> Kodezi.com </a> </td>
+    <td>Grammarly for programmers</td> 
+    <td><a href="https://kodezi.com/">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -138,41 +138,57 @@
   <tr>
     <td>16.</td>
     <td><img src="https://st.ai55.cc/favicon/regex.ai.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=RnlpbjlHMmU4ZlpWNWxzaUZmVTIxZDcxYTI3ZnIxdUkxTWc4c3oxcmtoQT0=" target="_blank"> Regex.ai </a> </td>
+    <td><a href="https://regex.ai/"> Regex.ai </a> </td>
     <td>AI正则表达式</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=RnlpbjlHMmU4ZlpWNWxzaUZmVTIxZDcxYTI3ZnIxdUkxTWc4c3oxcmtoQT0=" target="_blank">🔗 </a> </td> 
+    <td><a href="https://regex.ai/">🔗 </a> </td> 
   </tr>
   
   <tr>
     <td>17.</td>
     <td><img src="https://st.ai55.cc/favicon/arc53.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=OEFqU3ZhcEhkTXQ4QXMvM0V2SUM2WHpiRjl3cnhsWXV0aktDb2V5VFNvZz0=" target="_blank"> Arc53.com </a> </td>
+    <td><a href="https://docsgpt.arc53.com/"> Arc53.com </a> </td>
     <td>技术文档助手</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=OEFqU3ZhcEhkTXQ4QXMvM0V2SUM2WHpiRjl3cnhsWXV0aktDb2V5VFNvZz0=" target="_blank">🔗 </a> </td> 
+    <td><a href="https://docsgpt.arc53.com/">🔗 </a> </td> 
   </tr>
 
   <tr>
     <td>18.</td>
     <td><img src="https://st.ai55.cc/favicon/sqlkiller.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=QURsUTkyMjhVbHJYaGJIK0dISWlTck83WmJrRE5LN3VVQlFKQmdGMGNqWT0=" target="_blank"> Sqlkiller.com </a> </td>
+    <td><a href="https://www.sqlkiller.com/"> Sqlkiller.com </a> </td>
     <td>AI快速生成SQL</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=QURsUTkyMjhVbHJYaGJIK0dISWlTck83WmJrRE5LN3VVQlFKQmdGMGNqWT0=" target="_blank">🔗 </a> </td> 
+    <td><a href="https://www.sqlkiller.com/">🔗 </a> </td> 
   </tr>
 
   <tr>
     <td>19.</td>
     <td><img src="https://st.ai55.cc/favicon/cursor.so.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=aFE2YWpkTTg2ZkNGSHlYYXo0d2xnbVYrRVhtK0xycDVLcDRWRVIyQTBHST0=" target="_blank"> Cursor.so </a> </td>
+    <td><a href="https://www.cursor.so/"> Cursor.so </a> </td>
     <td>AI代码生成</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=aFE2YWpkTTg2ZkNGSHlYYXo0d2xnbVYrRVhtK0xycDVLcDRWRVIyQTBHST0=" target="_blank">🔗 </a> </td> 
+    <td><a href="https://www.cursor.so/">🔗 </a> </td> 
   </tr>
 
   <tr>
+    <td>4.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aihelperbot.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://aihelperbot.com/"> AIhelperBot </a> </td>
+    <td>Generate SQL Queries</td> 
+    <td><a href="https://aihelperbot.com/">🔗 </a> </td> 
+  </tr>
+  
+  <tr>
+    <td>4.</td>
+    <td><img src="https://st.ai55.cc/favicon/promptperfect.jinaai.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://promptperfect.jinaai.cn/"> Jinaai.cn </a> </td>
+    <td>提示词优化</td> 
+    <td><a href="https://promptperfect.jinaai.cn/">🔗 </a> </td> 
+  </tr>
+  
+  <tr>
     <td>19.</td>
     <td><img src="https://wangwl.net/favicon.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=c1NoUnh3UjJBVUdNVGVyS0c1K0pKNHk3OWN5ZGx5WXRRNlVWek91Sy85d3FocWlkQWg5YUtTR0t6VWRUL0UwWA==" target="_blank"> Wangwl.net </a> </td>
+    <td><a href="https://wangwl.net/static/projects/visualRegex#"> Wangwl.net </a> </td>
     <td> AI正则表达式</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=c1NoUnh3UjJBVUdNVGVyS0c1K0pKNHk3OWN5ZGx5WXRRNlVWek91Sy85d3FocWlkQWg5YUtTR0t6VWRUL0UwWA==" target="_blank">🔗 </a> </td> 
+    <td><a href="https://wangwl.net/static/projects/visualRegex#">🔗 </a> </td> 
   </tr>
   
 </table>
