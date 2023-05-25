@@ -43,7 +43,7 @@
     <td><a href="https://www.deepcode.ai/">🔗 </a> </td> 
   </tr>
   
-    <tr>
+  <tr>
     <td>6.</td>
     <td><a href="https://www.ai2sql.io/"> AI2Sql </a> </td>
     <td>🛫🔑😄⭐</td>
