@@ -1,5 +1,7 @@
 # Programming AI Tools
-总结AI/ChatGPT人工智能代码辅助工具
+
+总结AI/ChatGPT代码辅助工具
+提高程序员的生产力
 
 ### ChatGPT Programming
 
@@ -18,6 +20,7 @@
     <td>2.</td>
     <td><a href="https://openai.com/blog/openai-codex/"> OpenAI Codex </a> </td>
     <td>🛫😄</td>
+    <td> </td>
     <td><a href="https://openai.com/blog/openai-codex/">🔗 </a> </td> 
   </tr>
 
@@ -69,6 +72,7 @@
     <td>9.</td>
     <td><a href="https://httpie.io/blog/ai"> Httpie </a> </td>
     <td>🛫🔑😄⭐</td>
+    <td>A new way to interact with APIs</td>
     <td><a href="https://httpie.io/blog/ai">🔗 </a> </td> 
   </tr>
  
