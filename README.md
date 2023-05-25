@@ -130,10 +130,9 @@
   <tr>
     <td>15.</td>
     <td><img src="https://st.ai55.cc/favicon/bito.ai.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=MG0xQzdPbXEyVWxud1dKUERzQWxvM0k2ZURJNGJSN1RmYW9uZ0c0c1o1Zz0=" target="_blank"> Bito.ai </a> </td>
-    <td></td>
+    <td><a href="https://bito.ai/"> Bito.ai </a> </td>
     <td>AI编程辅助工具</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=MG0xQzdPbXEyVWxud1dKUERzQWxvM0k2ZURJNGJSN1RmYW9uZ0c0c1o1Zz0=" target="_blank">🔗 </a> </td> 
+    <td><a href="https://bito.ai/">🔗 </a> </td> 
   </tr>
   
   <tr>
