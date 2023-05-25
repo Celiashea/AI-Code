@@ -122,9 +122,9 @@
   <tr>
     <td>14.</td>
     <td><img src="https://st.ai55.cc/favicon/allaitools.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://day0424.ai55.cc/url/?id=REZCVTY1VFNKemJFYWtCS2pleVAvNE5LaE54R1NHR1dHWGVieGRvWFhKVT0=" target="_blank"> Allaitools.cn </a> </td>
+    <td><a href="https://bbs.allaitools.cn/"> Allaitools.cn </a> </td>
     <td>中文Prompt工坊</td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=REZCVTY1VFNKemJFYWtCS2pleVAvNE5LaE54R1NHR1dHWGVieGRvWFhKVT0=" target="_blank">🔗 </a> </td> 
+    <td><a href="https://bbs.allaitools.cn/">🔗 </a> </td> 
   </tr>
   
   <tr>
