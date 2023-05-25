@@ -11,7 +11,6 @@
     <td>1.</td>
     <td><a href="https://www.tabnine.com/"> Tabnine </a> </td>
     <td>🛫🔑😄⭐</td>
-    <td></td> 
     <td><a href="https://www.tabnine.com/">🔗 </a> </td> 
   </tr>
 
@@ -19,10 +18,21 @@
     <td>2.</td>
     <td><a href="https://openai.com/blog/openai-codex/"> OpenAI Codex </a> </td>
     <td>🛫😄</td>
-    <td></td> 
     <td><a href="https://openai.com/blog/openai-codex/">🔗 </a> </td> 
   </tr>
 
+
+  <tr>
+
+    <td>3.</td>
+
+    <td><a href="https://github.com/features/copilot"> GitHub Copilot </a> </td>
+
+    <td>🛫🔑😄⭐</td>
+
+    <td><a href="https://github.com/features/copilot">🔗 </a> </td> 
+
+  </tr>
  
 
 </table>
