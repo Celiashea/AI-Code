@@ -10,10 +10,10 @@
   <tr>
     <td>1.</td>
     <td><img src="https://st.ai55.cc/favicon/poe.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://www.tabnine.com/=" target="_blank"> Tabnine </a> </td>
+    <td><a href="https://www.tabnine.com/"> Tabnine </a> </td>
     <td>🛫🔑😄⭐</td>
     <td></td> 
-    <td><a href="https://day0424.ai55.cc/url/?id=a3Vnc3REbjhSWTZiK29SellZczNoRlN2SWl6SmI3V0xOYUhDOWp3K0ZKQT0=" target="_blank">🔗 </a> </td> 
+    <td><a href="https://www.tabnine.com/">🔗 </a> </td> 
   </tr>
 
   <tr>
