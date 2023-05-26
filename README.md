@@ -65,8 +65,7 @@
   
   <tr>
     <td>7.</td>
-    <td><img src="https://github.com/Celiashea/AI-CodeAsistant/assets/131651106/4aa4adcd-5b57-410e-88b5-10cfc58a5337
-" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://replit.com/site/ghostwriter"> Replit </a> </td>
     <td>Build software collaboratively with the power of AI</td>
     <td><a href="https://replit.com/site/ghostwriter">🔗 </a> </td> 
@@ -74,16 +73,16 @@
 
   <tr>
     <td>8.</td>
-    <td>🛫😄</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.akkio.com/"> Akkio </a> </td>
-    <td></td>
+    <td>Predictive AI for Analysts</td>
     <td><a href="https://www.akkio.com/">🔗 </a> </td> 
   </tr>
 
 
   <tr>
     <td>9.</td>
-    <td>🛫🔑😄⭐</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://httpie.io/blog/ai"> Httpie </a> </td>
     <td>A new way to interact with APIs</td>
     <td><a href="https://httpie.io/blog/ai">🔗 </a> </td> 
@@ -99,17 +98,17 @@
  
   <tr>
     <td>11.</td>
-    <td></td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://sheetplus.ai/"> Sheetplus </a> </td>
-    <td></td>
+    <td>Write Google Sheets & Excel formulas 10x faster with AI</td>
     <td><a href="https://sheetplus.ai/">🔗 </a> </td> 
   </tr>
   
   <tr>
     <td>12.</td>
-    <td>🛫🔑😄⭐</td>
+    <td><img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fe1b5c549a6dd5273e224cd87b24dd3fb.cdn.bubble.io%2Ff1683284087460x249315094751175300%2FFrame%252019173.png?w=384&h=498&auto=compress&dpr=1.25&fit=max" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://excelformulabot.com/"> ExcelFormulaBot </a> </td>
-    <td>AI编程助手</td>
+    <td>Revolutionize your data & spreadsheet workflow with AI</td>
     <td><a href="https://excelformulabot.com/">🔗 </a> </td> 
   </tr>
   
