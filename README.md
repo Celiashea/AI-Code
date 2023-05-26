@@ -208,7 +208,7 @@
     <td><a href="https://wangwl.net/static/projects/visualRegex#">🔗 </a> </td> 
   </tr>
   
-    <tr>
+  <tr>
     <td>1.</td>
     <td><img src="https://st.ai55.cc/favicon/tabnine.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://aws.amazon.com/cn/codewhisperer/"> Amazon CodeWhisperer </a> </td>
