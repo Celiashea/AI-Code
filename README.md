@@ -17,10 +17,11 @@
     <td>1.</td>
     <td><img src="https://st.ai55.cc/favicon/tabnine.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.tabnine.com/"> Tabnine </a> </td>
-    <td>开发助手</td>
+    <td>AI assistant for software developers</td>
     <td><a href="https://www.tabnine.com/">🔗 </a> </td> 
   </tr>
 
+  
   <tr>
     <td>2.</td>
     <td>🛫😄</td>
@@ -40,7 +41,7 @@
  
   <tr>
     <td>4.</td>
-    <td>🛫🔑😄⭐</td>
+    <td></td>
     <td><a href="https://github.com/abi/autocommit"> GAI Commit </a> </td>
     <td></td>
     <td><a href="https://github.com/abi/autocommit">🔗 </a> </td> 
@@ -48,7 +49,7 @@
  
   <tr>
     <td>5.</td>
-    <td>🛫🔑😄⭐</td>
+    <td></td>
     <td><a href="https://www.deepcode.ai/"> DeepCode </a> </td>
     <td></td>
     <td><a href="https://www.deepcode.ai/">🔗 </a> </td> 
@@ -56,7 +57,7 @@
   
   <tr>
     <td>6.</td>
-    <td>🛫🔑😄⭐</td>
+    <td></td>
     <td><a href="https://www.ai2sql.io/"> AI2Sql </a> </td>
     <td></td>
     <td><a href="https://www.ai2sql.io/">🔗 </a> </td> 
@@ -64,7 +65,7 @@
   
   <tr>
     <td>7.</td>
-    <td>🛫🔑😄⭐</td>
+    <td></td>
     <td><a href="https://replit.com/site/ghostwriter"> Replit </a> </td>
     <td>Build software collaboratively with the power of AI</td>
     <td><a href="https://replit.com/site/ghostwriter">🔗 </a> </td> 
@@ -97,7 +98,7 @@
  
   <tr>
     <td>11.</td>
-    <td>🛫🔑😄⭐</td>
+    <td></td>
     <td><a href="https://sheetplus.ai/"> Sheetplus </a> </td>
     <td></td>
     <td><a href="https://sheetplus.ai/">🔗 </a> </td> 
