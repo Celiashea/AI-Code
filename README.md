@@ -167,9 +167,17 @@
     <td>AI编程辅助工具</td> 
     <td><a href="https://bito.ai/">🔗 </a> </td> 
   </tr>
-  
+          
   <tr>
-    <td>16.</td>
+    <td>20.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://continual.ai/">Continual</a> </td>
+    <td>The Developer Platform for Generative AI</td>
+    <td><a href="https://continual.ai/">🔗 </a> </td> 
+  </tr>
+    
+  <tr>
+    <td>21.</td>
     <td><img src="https://st.ai55.cc/favicon/regex.ai.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://regex.ai/"> Regex.ai </a> </td>
     <td>AI正则表达式</td> 
@@ -177,7 +185,7 @@
   </tr>
   
   <tr>
-    <td>17.</td>
+    <td>22.</td>
     <td><img src="https://st.ai55.cc/favicon/arc53.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://docsgpt.arc53.com/"> Arc53.com </a> </td>
     <td>技术文档助手</td> 
@@ -185,7 +193,7 @@
   </tr>
 
   <tr>
-    <td>19.</td>
+    <td>23.</td>
     <td><img src="https://st.ai55.cc/favicon/cursor.so.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.cursor.so/"> Cursor.so </a> </td>
     <td>AI代码生成</td> 
@@ -193,7 +201,7 @@
   </tr>
 
   <tr>
-    <td>20.</td>
+    <td>24.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=codeium.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://codeium.com/"> Codeium </a> </td>
     <td>A Free AI-Powered Toolkit for Developers</td> 
@@ -201,7 +209,7 @@
   </tr>
   
   <tr>
-    <td>21.</td>
+    <td>25.</td>
     <td><img src="https://st.ai55.cc/favicon/promptperfect.jinaai.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://promptperfect.jinaai.cn/"> Jinaai.cn </a> </td>
     <td>提示词优化</td> 
@@ -209,7 +217,7 @@
   </tr>
   
   <tr>
-    <td>22.</td>
+    <td>26.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.autoregex.xyz/?ref=futurepedia"> AutoRegex </a> </td>
     <td>Effortless conversions from English to RegEx</td> 
@@ -217,7 +225,7 @@
   </tr>
   
   <tr>
-    <td>23.</td>
+    <td>27.</td>
     <td><img src="https://wangwl.net/favicon.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://wangwl.net/static/projects/visualRegex#"> Wangwl.net </a> </td>
     <td> AI正则表达式</td> 
@@ -225,7 +233,7 @@
   </tr>
 
   <tr>
-    <td>1.</td>
+    <td>28.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://github.com/abhagsain/ai-cli?ref=futurepedia"> AI CLI </a> </td>
     <td>Get answers for CLI commands from GPT3</td>
@@ -233,7 +241,7 @@
   </tr>
   
   <tr>
-    <td>1.</td>
+    <td>29.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.duinocodegenerator.com/">Duino Code Generator</a> </td>
     <td>generate code for Arduino</td>
@@ -241,7 +249,7 @@
   </tr>
     
   <tr>
-    <td>1.</td>
+    <td>30.</td>
     <td><img src="https://yurtsai.gallerycdn.vsassets.io/extensions/yurtsai/maverick/0.1.3/1667596293661/Microsoft.VisualStudio.Services.Icons.Default" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://marketplace.visualstudio.com/items?itemName=YurtsAI.maverick&ref=futurepedia">Maverick</a> </td>
     <td>AI Code suggestion for Python in VSCode</td>
@@ -249,7 +257,7 @@
   </tr>
     
   <tr>
-    <td>1.</td>
+    <td>31.</td>
     <td><img src="https://images.squarespace-cdn.com/content/v1/63dac39a0ea2353d0e132a36/1677698092028-6YTED0OSNHL7QO6GJHWH/ChatGPT-Emblem.png?format=1000w" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.buildt.ai/">Built</a> </td>
     <td>To help developers quickly search and understand large codebases</td>
@@ -258,23 +266,15 @@
 
 
   <tr>
-    <td>1.</td>
+    <td>32.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://fig.io/user-manual/ai?ref=futurepedia">Fig AI</a> </td>
     <td>Translate English → Bash commands in any shell</td>
     <td><a href="https://fig.io/user-manual/ai?ref=futurepedia">🔗 </a> </td> 
   </tr>
-        
+
   <tr>
-    <td>1.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://continual.ai/">Continual</a> </td>
-    <td>The Developer Platform for Generative AI</td>
-    <td><a href="https://continual.ai/">🔗 </a> </td> 
-  </tr>
-    
-  <tr>
-    <td>1.</td>
+    <td>33.</td>
     <td><img src="https://ph-files.imgix.net/c7fccb5a-692d-452c-9806-0e57f43bcc8a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=72&h=72&fit=crop&bg=0fff&dpr=1" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://stenography.dev/?ref=futurepedia">Stenography</a> </td>
     <td>A smart codebase documenter combining AI & code parsing</td>
@@ -282,7 +282,7 @@
   </tr>
 
   <tr>
-    <td>6.</td>
+    <td>34.</td>
     <td><img src="https://softr-prod.imgix.net/applications/143def2e-1eb3-4b2c-9866-2f9a7952aa82/assets/96cdd844-6d44-4031-b104-c27e48eac834.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.ai2sql.io/"> AI2Sql </a> </td>
     <td>Write SQL in seconds</td>
@@ -290,7 +290,7 @@
   </tr>
   
   <tr>
-    <td>4.</td>
+    <td>35.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=aihelperbot.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://aihelperbot.com/"> AIhelperBot </a> </td>
     <td>Generate SQL Queries</td> 
@@ -299,7 +299,7 @@
   
 
   <tr>
-    <td>18.</td>
+    <td>36.</td>
     <td><img src="https://st.ai55.cc/favicon/sqlkiller.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.sqlkiller.com/"> Sqlkiller.com </a> </td>
     <td>AI快速生成SQL</td> 
@@ -307,7 +307,7 @@
   </tr>
 
   <tr>
-    <td>9.</td>
+    <td>37.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://httpie.io/blog/ai"> Httpie </a> </td>
     <td>A new way to interact with APIs</td>
@@ -315,7 +315,7 @@
   </tr>
     
   <tr>
-    <td>11.</td>
+    <td>38.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://sheetplus.ai/"> Sheetplus </a> </td>
     <td>Write Google Sheets & Excel formulas 10x faster with AI</td>
@@ -323,7 +323,7 @@
   </tr>
   
   <tr>
-    <td>12.</td>
+    <td>39.</td>
     <td><img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fe1b5c549a6dd5273e224cd87b24dd3fb.cdn.bubble.io%2Ff1683284087460x249315094751175300%2FFrame%252019173.png?w=384&h=498&auto=compress&dpr=1.25&fit=max" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://excelformulabot.com/"> ExcelFormulaBot </a> </td>
     <td>Revolutionize your data & spreadsheet workflow with AI</td>
