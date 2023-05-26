@@ -243,9 +243,9 @@
   <tr>
     <td>1.</td>
     <td></td>
-    <td><a href="https://www.duinocodegenerator.com/">Duino Code Generator</a> </td>
-    <td>generate code for Arduino</td>
-    <td><a href="https://www.duinocodegenerator.com/">🔗 </a> </td> 
+    <td><a href="https://www.buildt.ai/">Built</a> </td>
+    <td>To help developers quickly search and understand large codebases</td>
+    <td><a href="https://www.buildt.ai/">🔗 </a> </td> 
   </tr>
   
 </table>
