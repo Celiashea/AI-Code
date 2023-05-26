@@ -329,6 +329,13 @@
     <td>Revolutionize your data & spreadsheet workflow with AI</td>
     <td><a href="https://excelformulabot.com/">🔗 </a> </td> 
   </tr>
-  
+    
+  <tr>
+    <td>40.</td>
+    <td><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://huggingface.co/spaces/THUDM/CodeGeeX"> CodeGeeX </a> </td>
+    <td>a large-scale multilingual code generation model</td>
+    <td><a href="https://huggingface.co/spaces/THUDM/CodeGeeX">🔗 </a> </td> 
+  </tr>
   
 </table>
