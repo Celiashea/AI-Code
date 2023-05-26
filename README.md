@@ -306,10 +306,10 @@
         
   <tr>
     <td>1.</td>
-    <td><img src="https://www.svgrepo.com/show/68023/logo.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://www.programming-helper.com/">Programminghelper</a> </td>
-    <td>Code faster with the help of AI</td>
-    <td><a href="https://www.programming-helper.com/">🔗 </a> </td> 
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://continual.ai/">Continual</a> </td>
+    <td>The Developer Platform for Generative AI</td>
+    <td><a href="https://continual.ai/">🔗 </a> </td> 
   </tr>
   
 </table>
