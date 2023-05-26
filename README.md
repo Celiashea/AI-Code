@@ -54,17 +54,26 @@
     <td>Semantic static code analysis for better software</td>
     <td><a href="https://www.deepcode.ai/">🔗 </a> </td> 
   </tr>
-  
+ 
+          
   <tr>
     <td>6.</td>
-    <td><img src="https://softr-prod.imgix.net/applications/143def2e-1eb3-4b2c-9866-2f9a7952aa82/assets/96cdd844-6d44-4031-b104-c27e48eac834.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://www.ai2sql.io/"> AI2Sql </a> </td>
-    <td>Write SQL in seconds</td>
-    <td><a href="https://www.ai2sql.io/">🔗 </a> </td> 
+    <td><img src="https://www.svgrepo.com/show/68023/logo.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://www.programming-helper.com/">Programminghelper</a> </td>
+    <td>Code faster with the help of AI</td>
+    <td><a href="https://www.programming-helper.com/">🔗 </a> </td> 
   </tr>
-  
+      
   <tr>
     <td>7.</td>
+    <td><img src="https://uploads-ssl.webflow.com/62e02bbcf01e1e627ee70e7f/62e02bbcf01e1ec533e70ffb_askcodi_text.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://www.askcodi.com/">AskCodi</a> </td>
+    <td>Write Code. Faster. Easier. Better.</td>
+    <td><a href="https://www.askcodi.com/">🔗 </a> </td> 
+  </tr> 
+  
+  <tr>
+    <td>8.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://replit.com/site/ghostwriter"> Replit </a> </td>
     <td>Build software collaboratively with the power of AI</td>
@@ -72,20 +81,11 @@
   </tr>
 
   <tr>
-    <td>8.</td>
+    <td>9.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.akkio.com/"> Akkio </a> </td>
     <td>Predictive AI for Analysts</td>
     <td><a href="https://www.akkio.com/">🔗 </a> </td> 
-  </tr>
-
-
-  <tr>
-    <td>9.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://httpie.io/blog/ai"> Httpie </a> </td>
-    <td>A new way to interact with APIs</td>
-    <td><a href="https://httpie.io/blog/ai">🔗 </a> </td> 
   </tr>
  
   <tr>
@@ -95,23 +95,23 @@
     <td>AI Accelerated Software Development</td>
     <td><a href="https://mutable.ai/">🔗 </a> </td> 
   </tr>
- 
+     
   <tr>
     <td>11.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://sheetplus.ai/"> Sheetplus </a> </td>
-    <td>Write Google Sheets & Excel formulas 10x faster with AI</td>
-    <td><a href="https://sheetplus.ai/">🔗 </a> </td> 
+    <td><img src="https://spellbox.app/media/images/web1.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://spellbox.app/">SpellBox</a> </td>
+    <td>Versatile AI coding assistant</td>
+    <td><a href="https://spellbox.app/">🔗 </a> </td> 
   </tr>
-  
+      
   <tr>
     <td>12.</td>
-    <td><img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fe1b5c549a6dd5273e224cd87b24dd3fb.cdn.bubble.io%2Ff1683284087460x249315094751175300%2FFrame%252019173.png?w=384&h=498&auto=compress&dpr=1.25&fit=max" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://excelformulabot.com/"> ExcelFormulaBot </a> </td>
-    <td>Revolutionize your data & spreadsheet workflow with AI</td>
-    <td><a href="https://excelformulabot.com/">🔗 </a> </td> 
+    <td><img src="https://plugins.jetbrains.com/files/20085/334822/icon/pluginIcon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://spellbox.app/">CodeAssist</a> </td>
+    <td>AI assistant/chatbot/copilot for programming GPT-4</td>
+    <td><a href="https://spellbox.app/">🔗 </a> </td> 
   </tr>
-  
+
   <tr>
     <td>13.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=kodezi.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
@@ -169,15 +169,7 @@
   </tr>
 
   <tr>
-    <td>4.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=aihelperbot.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://aihelperbot.com/"> AIhelperBot </a> </td>
-    <td>Generate SQL Queries</td> 
-    <td><a href="https://aihelperbot.com/">🔗 </a> </td> 
-  </tr>
-  
-  <tr>
-    <td>18.</td>
+    <td>20.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=codeium.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://codeium.com/"> Codeium </a> </td>
     <td>A Free AI-Powered Toolkit for Developers</td> 
@@ -185,7 +177,7 @@
   </tr>
   
   <tr>
-    <td>4.</td>
+    <td>21.</td>
     <td><img src="https://st.ai55.cc/favicon/promptperfect.jinaai.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://promptperfect.jinaai.cn/"> Jinaai.cn </a> </td>
     <td>提示词优化</td> 
@@ -193,7 +185,7 @@
   </tr>
   
   <tr>
-    <td>19.</td>
+    <td>22.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.autoregex.xyz/?ref=futurepedia"> AutoRegex </a> </td>
     <td>Effortless conversions from English to RegEx</td> 
@@ -201,7 +193,7 @@
   </tr>
   
   <tr>
-    <td>19.</td>
+    <td>23.</td>
     <td><img src="https://wangwl.net/favicon.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://wangwl.net/static/projects/visualRegex#"> Wangwl.net </a> </td>
     <td> AI正则表达式</td> 
@@ -209,7 +201,7 @@
   </tr>
   
   <tr>
-    <td>1.</td>
+    <td>24.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=aws.amazon.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://aws.amazon.com/cn/codewhisperer/"> Amazon CodeWhisperer </a> </td>
     <td>AI assistant for software developers</td>
@@ -255,22 +247,7 @@
     <td>AI-Powered Coding Assistant</td>
     <td><a href="https://www.useblackbox.io/">🔗 </a> </td> 
   </tr>
-    
-  <tr>
-    <td>1.</td>
-    <td><img src="https://spellbox.app/media/images/web1.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://spellbox.app/">SpellBox</a> </td>
-    <td>Versatile AI coding assistant</td>
-    <td><a href="https://spellbox.app/">🔗 </a> </td> 
-  </tr>
-      
-  <tr>
-    <td>1.</td>
-    <td><img src="https://plugins.jetbrains.com/files/20085/334822/icon/pluginIcon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://spellbox.app/">CodeAssist</a> </td>
-    <td>AI assistant/chatbot/copilot for programming GPT-4</td>
-    <td><a href="https://spellbox.app/">🔗 </a> </td> 
-  </tr>
+
       
   <tr>
     <td>1.</td>
@@ -279,23 +256,7 @@
     <td>Automate Your Business Using GPT-4</td>
     <td><a href="https://cheatlayer.com/">🔗 </a> </td> 
   </tr>
-        
-  <tr>
-    <td>1.</td>
-    <td><img src="https://www.svgrepo.com/show/68023/logo.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://www.programming-helper.com/">Programminghelper</a> </td>
-    <td>Code faster with the help of AI</td>
-    <td><a href="https://www.programming-helper.com/">🔗 </a> </td> 
-  </tr>
-      
-  <tr>
-    <td>1.</td>
-    <td><img src="https://uploads-ssl.webflow.com/62e02bbcf01e1e627ee70e7f/62e02bbcf01e1ec533e70ffb_askcodi_text.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://www.askcodi.com/">AskCodi</a> </td>
-    <td>Write Code. Faster. Easier. Better.</td>
-    <td><a href="https://www.askcodi.com/">🔗 </a> </td> 
-  </tr> 
-  
+
   <tr>
     <td>1.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
@@ -327,5 +288,47 @@
     <td>AI-powered code review assistant</td>
     <td><a href="https://whatthediff.ai/">🔗 </a> </td> 
   </tr>
+   
+  <tr>
+    <td>6.</td>
+    <td><img src="https://softr-prod.imgix.net/applications/143def2e-1eb3-4b2c-9866-2f9a7952aa82/assets/96cdd844-6d44-4031-b104-c27e48eac834.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://www.ai2sql.io/"> AI2Sql </a> </td>
+    <td>Write SQL in seconds</td>
+    <td><a href="https://www.ai2sql.io/">🔗 </a> </td> 
+  </tr>
+  
+  <tr>
+    <td>4.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aihelperbot.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://aihelperbot.com/"> AIhelperBot </a> </td>
+    <td>Generate SQL Queries</td> 
+    <td><a href="https://aihelperbot.com/">🔗 </a> </td> 
+  </tr>
+  
+
+  <tr>
+    <td>9.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://httpie.io/blog/ai"> Httpie </a> </td>
+    <td>A new way to interact with APIs</td>
+    <td><a href="https://httpie.io/blog/ai">🔗 </a> </td> 
+  </tr>
+    
+  <tr>
+    <td>11.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://sheetplus.ai/"> Sheetplus </a> </td>
+    <td>Write Google Sheets & Excel formulas 10x faster with AI</td>
+    <td><a href="https://sheetplus.ai/">🔗 </a> </td> 
+  </tr>
+  
+  <tr>
+    <td>12.</td>
+    <td><img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fe1b5c549a6dd5273e224cd87b24dd3fb.cdn.bubble.io%2Ff1683284087460x249315094751175300%2FFrame%252019173.png?w=384&h=498&auto=compress&dpr=1.25&fit=max" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://excelformulabot.com/"> ExcelFormulaBot </a> </td>
+    <td>Revolutionize your data & spreadsheet workflow with AI</td>
+    <td><a href="https://excelformulabot.com/">🔗 </a> </td> 
+  </tr>
+  
   
 </table>
