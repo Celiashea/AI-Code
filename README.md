@@ -263,5 +263,21 @@
     <td>Versatile AI coding assistant</td>
     <td><a href="https://spellbox.app/">🔗 </a> </td> 
   </tr>
+      
+  <tr>
+    <td>1.</td>
+    <td><img src="https://plugins.jetbrains.com/files/20085/334822/icon/pluginIcon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://spellbox.app/">CodeAssist</a> </td>
+    <td>AI assistant/chatbot/copilot for programming GPT-4</td>
+    <td><a href="https://spellbox.app/">🔗 </a> </td> 
+  </tr>
+      
+  <tr>
+    <td>1.</td>
+    <td><img src="https://cheatlayer.com/v5/img/mainlogo.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://cheatlayer.com/">Cheat Layer</a> </td>
+    <td>Automate Your Business Using GPT-4</td>
+    <td><a href="https://cheatlayer.com/">🔗 </a> </td> 
+  </tr>
   
 </table>
