@@ -26,7 +26,7 @@
     <td>2.</td>
     <td>🛫😄</td>
     <td><a href="https://openai.com/blog/openai-codex/"> OpenAI Codex </a> </td>
-    <td> </td>
+    <td>An improved version of OpenAI Codex</td>
     <td><a href="https://openai.com/blog/openai-codex/">🔗 </a> </td> 
   </tr>
 
