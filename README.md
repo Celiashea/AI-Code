@@ -122,7 +122,7 @@
   
   <tr>
     <td>14.</td>
-    <td><img src="https://www.useblackbox.io/style/images/Group-4.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.useblackbox.io/">BlackBox</a> </td>
     <td>AI-Powered Coding Assistant</td>
     <td><a href="https://www.useblackbox.io/">🔗 </a> </td> 
