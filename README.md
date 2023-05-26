@@ -119,9 +119,41 @@
     <td>Grammarly for programmers</td> 
     <td><a href="https://kodezi.com/">🔗 </a> </td> 
   </tr>
-
+  
   <tr>
     <td>14.</td>
+    <td><img src="https://www.useblackbox.io/style/images/Group-4.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://www.useblackbox.io/">BlackBox</a> </td>
+    <td>AI-Powered Coding Assistant</td>
+    <td><a href="https://www.useblackbox.io/">🔗 </a> </td> 
+  </tr>
+      
+  <tr>
+    <td>15.</td>
+    <td><img src="https://cheatlayer.com/v5/img/mainlogo.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://cheatlayer.com/">Cheat Layer</a> </td>
+    <td>Automate Your Business Using GPT-4</td>
+    <td><a href="https://cheatlayer.com/">🔗 </a> </td> 
+  </tr>
+          
+  <tr>
+    <td>16.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://whatthediff.ai/">WhatTheDiff</a> </td>
+    <td>AI-powered code review assistant</td>
+    <td><a href="https://whatthediff.ai/">🔗 </a> </td> 
+  </tr>
+     
+  <tr>
+    <td>17.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aws.amazon.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://aws.amazon.com/cn/codewhisperer/"> Amazon CodeWhisperer </a> </td>
+    <td>AI assistant for software developers</td>
+    <td><a href="https://aws.amazon.com/cn/codewhisperer/">🔗 </a> </td> 
+  </tr>
+   
+  <tr>
+    <td>18.</td>
     <td><img src="https://st.ai55.cc/favicon/allaitools.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://bbs.allaitools.cn/"> Allaitools.cn </a> </td>
     <td>中文Prompt工坊</td> 
@@ -129,7 +161,7 @@
   </tr>
   
   <tr>
-    <td>15.</td>
+    <td>19.</td>
     <td><img src="https://st.ai55.cc/favicon/bito.ai.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://bito.ai/"> Bito.ai </a> </td>
     <td>AI编程辅助工具</td> 
@@ -150,14 +182,6 @@
     <td><a href="https://docsgpt.arc53.com/"> Arc53.com </a> </td>
     <td>技术文档助手</td> 
     <td><a href="https://docsgpt.arc53.com/">🔗 </a> </td> 
-  </tr>
-
-  <tr>
-    <td>18.</td>
-    <td><img src="https://st.ai55.cc/favicon/sqlkiller.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://www.sqlkiller.com/"> Sqlkiller.com </a> </td>
-    <td>AI快速生成SQL</td> 
-    <td><a href="https://www.sqlkiller.com/">🔗 </a> </td> 
   </tr>
 
   <tr>
@@ -199,15 +223,7 @@
     <td> AI正则表达式</td> 
     <td><a href="https://wangwl.net/static/projects/visualRegex#">🔗 </a> </td> 
   </tr>
-  
-  <tr>
-    <td>24.</td>
-    <td><img src="https://favicon.zhusl.com/ico?url=aws.amazon.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://aws.amazon.com/cn/codewhisperer/"> Amazon CodeWhisperer </a> </td>
-    <td>AI assistant for software developers</td>
-    <td><a href="https://aws.amazon.com/cn/codewhisperer/">🔗 </a> </td> 
-  </tr>
-   
+
   <tr>
     <td>1.</td>
     <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
@@ -239,23 +255,7 @@
     <td>To help developers quickly search and understand large codebases</td>
     <td><a href="https://www.buildt.ai/">🔗 </a> </td> 
   </tr>
-  
-  <tr>
-    <td>1.</td>
-    <td><img src="https://www.useblackbox.io/style/images/Group-4.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://www.useblackbox.io/">BlackBox</a> </td>
-    <td>AI-Powered Coding Assistant</td>
-    <td><a href="https://www.useblackbox.io/">🔗 </a> </td> 
-  </tr>
 
-      
-  <tr>
-    <td>1.</td>
-    <td><img src="https://cheatlayer.com/v5/img/mainlogo.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://cheatlayer.com/">Cheat Layer</a> </td>
-    <td>Automate Your Business Using GPT-4</td>
-    <td><a href="https://cheatlayer.com/">🔗 </a> </td> 
-  </tr>
 
   <tr>
     <td>1.</td>
@@ -280,15 +280,7 @@
     <td>A smart codebase documenter combining AI & code parsing</td>
     <td><a href="https://stenography.dev/?ref=futurepedia">🔗 </a> </td> 
   </tr>
-        
-  <tr>
-    <td>1.</td>
-    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
-    <td><a href="https://whatthediff.ai/">WhatTheDiff</a> </td>
-    <td>AI-powered code review assistant</td>
-    <td><a href="https://whatthediff.ai/">🔗 </a> </td> 
-  </tr>
-   
+
   <tr>
     <td>6.</td>
     <td><img src="https://softr-prod.imgix.net/applications/143def2e-1eb3-4b2c-9866-2f9a7952aa82/assets/96cdd844-6d44-4031-b104-c27e48eac834.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
@@ -305,6 +297,14 @@
     <td><a href="https://aihelperbot.com/">🔗 </a> </td> 
   </tr>
   
+
+  <tr>
+    <td>18.</td>
+    <td><img src="https://st.ai55.cc/favicon/sqlkiller.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://www.sqlkiller.com/"> Sqlkiller.com </a> </td>
+    <td>AI快速生成SQL</td> 
+    <td><a href="https://www.sqlkiller.com/">🔗 </a> </td> 
+  </tr>
 
   <tr>
     <td>9.</td>
