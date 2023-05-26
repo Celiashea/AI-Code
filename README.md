@@ -290,7 +290,7 @@
       
   <tr>
     <td>1.</td>
-    <td><img src="https://cheatlayer.com/v5/img/mainlogo.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><img src="https://uploads-ssl.webflow.com/62e02bbcf01e1e627ee70e7f/62e02bbcf01e1ec533e70ffb_askcodi_text.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.askcodi.com/">AskCodi</a> </td>
     <td>Write Code. Faster. Easier. Better.</td>
     <td><a href="https://www.askcodi.com/">🔗 </a> </td> 
