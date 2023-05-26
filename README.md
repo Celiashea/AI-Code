@@ -90,9 +90,9 @@
  
   <tr>
     <td>10.</td>
-    <td>🛫🔑😄⭐</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://mutable.ai/"> Mutable </a> </td>
-    <td></td>
+    <td>AI Accelerated Software Development</td>
     <td><a href="https://mutable.ai/">🔗 </a> </td> 
   </tr>
  
@@ -298,7 +298,7 @@
   
   <tr>
     <td>1.</td>
-    <td><img src="https://cheatlayer.com/v5/img/mainlogo.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://fig.io/user-manual/ai?ref=futurepedia">Fig AI</a> </td>
     <td>Translate English → Bash commands in any shell</td>
     <td><a href="https://fig.io/user-manual/ai?ref=futurepedia">🔗 </a> </td> 
