@@ -218,7 +218,7 @@
    
   <tr>
     <td>1.</td>
-    <td></td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://github.com/abhagsain/ai-cli?ref=futurepedia"> AI CLI </a> </td>
     <td>Get answers for CLI commands from GPT3</td>
     <td><a href="https://github.com/abhagsain/ai-cli?ref=futurepedia">🔗 </a> </td> 
@@ -226,7 +226,7 @@
   
   <tr>
     <td>1.</td>
-    <td></td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.duinocodegenerator.com/">Duino Code Generator</a> </td>
     <td>generate code for Arduino</td>
     <td><a href="https://www.duinocodegenerator.com/">🔗 </a> </td> 
