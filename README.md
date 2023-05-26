@@ -231,5 +231,21 @@
     <td>generate code for Arduino</td>
     <td><a href="https://www.duinocodegenerator.com/">🔗 </a> </td> 
   </tr>
+    
+  <tr>
+    <td>1.</td>
+    <td><img src="https://yurtsai.gallerycdn.vsassets.io/extensions/yurtsai/maverick/0.1.3/1667596293661/Microsoft.VisualStudio.Services.Icons.Default" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=YurtsAI.maverick&ref=futurepedia">Maverick</a> </td>
+    <td>AI Code suggestion for Python in VSCode</td>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=YurtsAI.maverick&ref=futurepedia">🔗 </a> </td> 
+  </tr>
+    
+  <tr>
+    <td>1.</td>
+    <td></td>
+    <td><a href="https://www.duinocodegenerator.com/">Duino Code Generator</a> </td>
+    <td>generate code for Arduino</td>
+    <td><a href="https://www.duinocodegenerator.com/">🔗 </a> </td> 
+  </tr>
   
 </table>
