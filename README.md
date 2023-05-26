@@ -180,7 +180,7 @@
     <td>18.</td>
     <td><img src="https://favicon.zhusl.com/ico?url=codeium.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://codeium.com/"> Codeium </a> </td>
-    <td>A Free AI-Powered Toolkit</td> 
+    <td>A Free AI-Powered Toolkit for Developers</td> 
     <td><a href="https://codeium.com/">🔗 </a> </td> 
   </tr>
   
