@@ -24,7 +24,7 @@
   
   <tr>
     <td>2.</td>
-    <td>🛫😄</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://openai.com/blog/openai-codex/"> OpenAI Codex </a> </td>
     <td>An improved version of OpenAI Codex</td>
     <td><a href="https://openai.com/blog/openai-codex/">🔗 </a> </td> 
@@ -41,31 +41,32 @@
  
   <tr>
     <td>4.</td>
-    <td></td>
-    <td><a href="https://github.com/abi/autocommit"> GAI Commit </a> </td>
-    <td></td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://github.com/abi/autocommit"> AI Commit </a> </td>
+    <td>AI-generated Git commit messages</td>
     <td><a href="https://github.com/abi/autocommit">🔗 </a> </td> 
   </tr>
  
   <tr>
     <td>5.</td>
-    <td></td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.deepcode.ai/"> DeepCode </a> </td>
-    <td></td>
+    <td>Semantic static code analysis for better software</td>
     <td><a href="https://www.deepcode.ai/">🔗 </a> </td> 
   </tr>
   
   <tr>
     <td>6.</td>
-    <td></td>
+    <td><img src="https://softr-prod.imgix.net/applications/143def2e-1eb3-4b2c-9866-2f9a7952aa82/assets/96cdd844-6d44-4031-b104-c27e48eac834.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.ai2sql.io/"> AI2Sql </a> </td>
-    <td></td>
+    <td>Write SQL in seconds</td>
     <td><a href="https://www.ai2sql.io/">🔗 </a> </td> 
   </tr>
   
   <tr>
     <td>7.</td>
-    <td></td>
+    <td><img src="https://github.com/Celiashea/AI-CodeAsistant/assets/131651106/4aa4adcd-5b57-410e-88b5-10cfc58a5337
+" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://replit.com/site/ghostwriter"> Replit </a> </td>
     <td>Build software collaboratively with the power of AI</td>
     <td><a href="https://replit.com/site/ghostwriter">🔗 </a> </td> 
