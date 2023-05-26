@@ -279,5 +279,21 @@
     <td>Automate Your Business Using GPT-4</td>
     <td><a href="https://cheatlayer.com/">🔗 </a> </td> 
   </tr>
+        
+  <tr>
+    <td>1.</td>
+    <td><img src="https://www.svgrepo.com/show/68023/logo.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://www.programming-helper.com/">Programminghelper</a> </td>
+    <td>Code faster with the help of AI</td>
+    <td><a href="https://www.programming-helper.com/">🔗 </a> </td> 
+  </tr>
+      
+  <tr>
+    <td>1.</td>
+    <td><img src="https://cheatlayer.com/v5/img/mainlogo.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://www.askcodi.com/">AskCodi</a> </td>
+    <td>Write Code. Faster. Easier. Better.</td>
+    <td><a href="https://www.askcodi.com/">🔗 </a> </td> 
+  </tr>
   
 </table>
