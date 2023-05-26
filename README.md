@@ -224,4 +224,12 @@
     <td><a href="https://github.com/abhagsain/ai-cli?ref=futurepedia">🔗 </a> </td> 
   </tr>
   
+  <tr>
+    <td>1.</td>
+    <td></td>
+    <td><a href="https://www.duinocodegenerator.com/">Duino Code Generator</a> </td>
+    <td>generate code for Arduino</td>
+    <td><a href="https://www.duinocodegenerator.com/">🔗 </a> </td> 
+  </tr>
+  
 </table>
