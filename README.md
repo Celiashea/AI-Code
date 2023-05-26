@@ -311,5 +311,21 @@
     <td>The Developer Platform for Generative AI</td>
     <td><a href="https://continual.ai/">🔗 </a> </td> 
   </tr>
+    
+  <tr>
+    <td>1.</td>
+    <td><img src="https://ph-files.imgix.net/c7fccb5a-692d-452c-9806-0e57f43bcc8a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=72&h=72&fit=crop&bg=0fff&dpr=1" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://stenography.dev/?ref=futurepedia">Stenography</a> </td>
+    <td>A smart codebase documenter combining AI & code parsing</td>
+    <td><a href="https://stenography.dev/?ref=futurepedia">🔗 </a> </td> 
+  </tr>
+        
+  <tr>
+    <td>1.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://whatthediff.ai/">WhatTheDiff</a> </td>
+    <td>AI-powered code review assistant</td>
+    <td><a href="https://whatthediff.ai/">🔗 </a> </td> 
+  </tr>
   
 </table>
