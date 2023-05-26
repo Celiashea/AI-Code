@@ -215,5 +215,13 @@
     <td>AI assistant for software developers</td>
     <td><a href="https://aws.amazon.com/cn/codewhisperer/">🔗 </a> </td> 
   </tr>
+   
+  <tr>
+    <td>1.</td>
+    <td><img src="https://st.ai55.cc/favicon/tabnine.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://github.com/abhagsain/ai-cli?ref=futurepedia"> AI CLI </a> </td>
+    <td>AI assistant for software developers</td>
+    <td><a href="https://github.com/abhagsain/ai-cli?ref=futurepedia">🔗 </a> </td> 
+  </tr>
   
 </table>
