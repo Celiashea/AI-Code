@@ -242,10 +242,26 @@
     
   <tr>
     <td>1.</td>
-    <td></td>
+    <td><img src="https://images.squarespace-cdn.com/content/v1/63dac39a0ea2353d0e132a36/1677698092028-6YTED0OSNHL7QO6GJHWH/ChatGPT-Emblem.png?format=1000w" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
     <td><a href="https://www.buildt.ai/">Built</a> </td>
     <td>To help developers quickly search and understand large codebases</td>
     <td><a href="https://www.buildt.ai/">🔗 </a> </td> 
+  </tr>
+  
+  <tr>
+    <td>1.</td>
+    <td><img src="https://www.useblackbox.io/style/images/Group-4.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://www.useblackbox.io/">BlackBox</a> </td>
+    <td>AI-Powered Coding Assistant</td>
+    <td><a href="https://www.useblackbox.io/">🔗 </a> </td> 
+  </tr>
+    
+  <tr>
+    <td>1.</td>
+    <td><img src="https://spellbox.app/media/images/web1.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://spellbox.app/">SpellBox</a> </td>
+    <td>Versatile AI coding assistant</td>
+    <td><a href="https://spellbox.app/">🔗 </a> </td> 
   </tr>
   
 </table>
